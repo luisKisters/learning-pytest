@@ -1,3 +1,5 @@
 __pycache__/
 .pytest_cache/
-.actions-runner/
+actions-runner/
+.vscode/
+.venv/
