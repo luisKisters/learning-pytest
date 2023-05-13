@@ -14,3 +14,11 @@ def test_bubbleSort_single_item():
 
 def test_bubbleSort_defined_arr():
     assert bubbleSort([3, 2, 1]) == [1, 2, 3]
+
+
+def test_bubbleSort_defined_arr2():
+    assert bubbleSort([1, 2, 3, 4]) == [1, 2, 3, 4]
+
+
+def test_bubbleSort_large_numbers():
+    pass
